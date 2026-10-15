@@ -93,6 +93,4 @@ This project provides practical experience with:
 - Organize commands into separate methods.
 - Improve exception handling for file system operations.
 
-## License
 
-This project is available for educational and personal learning purposes.
